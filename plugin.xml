@@ -10,7 +10,9 @@
     </engines>
     
     <name>RecentList</name>
-    
+    <description>Calllogs for Android</description>
+    <author>Gautam</author>
+    <keywords>android,calllogs</keywords>
     <license>Apache 2.0 License</license>
     
      <asset src="www/Calllogs.js" target="Calllogs.js" />
